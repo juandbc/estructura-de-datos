@@ -1,2 +1,2 @@
-# estructura-de-datos
+# Estructura-de-datos
 Repositorio para práctica de proyectos sobre estructura de datos
