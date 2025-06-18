@@ -2,7 +2,7 @@
     "configurations": [
         {
             "type": "dotnet",
-            "name": "Dotnet configuration",
+            "name": "Run $PROJECT_DIR_NAME$",
             "projectPath": "SimuladorSpaRobles/SimuladorSpaRobles.csproj",   
             "args": ["run"]
         }
